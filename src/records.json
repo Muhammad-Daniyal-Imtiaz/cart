@@ -1,0 +1,216 @@
+{
+    "storeName": "My eStore",
+    "products": [
+      {
+        "id": "1",
+        "name": "Dove Cream",
+        "description": "This is the description for Product 1.",
+        "price": 19.99,
+        "image": "https://images.unsplash.com/photo-1625772452859-1c03d5bf1137?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fHByb2R1Y3RzfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60"
+      },
+      {
+        "id": "2",
+        "name": "Kids Bicycle",
+        "description": "This is the description for Product 2.",
+        "price": 24.99,
+        "image": "https://img.freepik.com/free-photo/living-room-interior-design-with-tricycle_23-2149308389.jpg?size=626&ext=jpg&ga=GA1.1.1035142150.1693736875&semt=ais"
+      },
+      {
+        "id": "3",
+        "name": "Bicycle",
+        "description": "This is the description for Product 3.",
+        "price": 14.99,
+        "image": "https://img.freepik.com/free-photo/blue-vintage-bicycle-outdoors_23-2148907986.jpg?size=626&ext=jpg&ga=GA1.1.1035142150.1693736875&semt=ais"
+      },
+      {
+        "id": "4",
+        "name": "Branded Laptop",
+        "description": "This is the description for Product 4.",
+        "price": 29.99,
+        "image": "https://img.freepik.com/free-photo/camera-photography-design-studio-editing-concept_53876-42954.jpg?size=626&ext=jpg&ga=GA1.1.1035142150.1693736875&semt=sph"
+      },
+      {
+        "id": "5",
+        "name": "Mobile Phone",
+        "description": "This is the description for Product 5.",
+        "price": 17.99,
+        "image": "https://img.freepik.com/free-photo/electronic-devices-balancing-concept_23-2150422326.jpg?size=626&ext=jpg&ga=GA1.1.1035142150.1693736875&semt=ais"
+      },
+      {
+        "id": "6",
+        "name": "Smartphone",
+        "description": "This is the description for Product 6.",
+        "price": 22.99,
+        "image": "https://img.freepik.com/free-photo/new-smartphone-balancing-with-podium_23-2150296471.jpg?size=626&ext=jpg&ga=GA1.1.1035142150.1693736875&semt=ais"
+      },
+      {
+        "id": "7",
+        "name": " Gpu",
+        "description": "This is the description for Product 7.",
+        "price": 16.99,
+        "image": "https://img.freepik.com/premium-photo/computer-graphics-card-blue-background_220873-30280.jpg?size=626&ext=jpg&ga=GA1.1.1035142150.1693736875&semt=ais"
+      },
+      {
+        "id": "8",
+        "name": " Ram",
+        "description": "This is the description for Product 8.",
+        "price": 25.99,
+        "image": "https://img.freepik.com/premium-photo/ram-memory-cards-notebook-random-access-memory-replacement-laptop-computer-ram-module-ddr-hand-background-modern-notebook-transformer-ultrabook-upgrade_431724-1589.jpg?size=626&ext=jpg&ga=GA1.1.1035142150.1693736875&semt=ais"
+      },
+      {
+        "id": "9",
+        "name": "Tshirt",
+        "description": "This is the description for Product 9.",
+        "price": 21.99,
+        "image": "https://img.freepik.com/premium-photo/purple-soccer-jersey-mock-up-football-club-t-shirt-sport-design-template-soccer-player_625492-1047.jpg?size=338&ext=jpg&ga=GA1.1.1035142150.1693736875&semt=ais"
+      },
+      {
+        "id": "10",
+        "name": "Processor",
+        "description": "This is the description for Product 10.",
+        "price": 18.99,
+        "image": "https://img.freepik.com/free-photo/close-up-hand-with-glove-holding-chip_23-2148925545.jpg?size=626&ext=jpg&ga=GA1.1.1035142150.1693736875&semt=ais"
+      },
+      {
+        "id": "11",
+        "name": "CD Drive",
+        "description": "This is the description for Product 11.",
+        "price": 14.99,
+        "image": "https://img.freepik.com/free-photo/high-angle-laptop-hard-drive-arrangement_23-2149417022.jpg?size=626&ext=jpg&ga=GA1.1.1035142150.1693736875&semt=ais"
+      },
+      {
+        "id": "12",
+        "name": "HeavyBike",
+        "description": "This is the description for Product 12.",
+        "price": 27.99,
+        "image": "https://img.freepik.com/free-photo/motorcycle-with-helmet_23-2148875785.jpg?size=626&ext=jpg&ga=GA1.1.1035142150.1693736875&semt=sph"
+      },
+      {
+        "id": "13",
+        "name": "Keyboard",
+        "description": "This is the description for Product 13.",
+        "price": 16.99,
+        "image": "https://img.freepik.com/premium-photo/rainbow-keyboard-black-gaming-keyboard-with-rgb-light-backlit-keyboard-dark-room-3d-render_255157-435.jpg?size=626&ext=jpg&ga=GA1.1.1035142150.1693736875&semt=sph"
+      },
+      {
+        "id": "14",
+        "name": "Keyboard",
+        "description": "This is the description for Product 14.",
+        "price": 23.99,
+        "image": "https://img.freepik.com/free-photo/keyboard-with-neon-lights-high-angle_23-2149680226.jpg?size=626&ext=jpg&ga=GA1.1.1035142150.1693736875&semt=sph"
+      },
+      {
+        "id": "15",
+        "name": "Mouse ",
+        "description": "This is the description for Product 15.",
+        "price": 19.99,
+        "image": "https://img.freepik.com/premium-photo/computer-mouse-isolated_78361-21.jpg?size=626&ext=jpg&ga=GA1.2.1035142150.1693736875&semt=sph"
+      },
+      {
+        "id": "16",
+        "name": "Mouse",
+        "description": "This is the description for Product 16.",
+        "price": 34.99,
+        "image": "https://img.freepik.com/free-photo/usb-flash-drive-mockup-technology-data-storage-device_53876-97316.jpg?size=338&ext=jpg&ga=GA1.1.1035142150.1693736875&semt=sph"
+      },
+      {
+        "id": "17",
+        "name": "Laptop cooler",
+        "description": "This is the description for Product 17.",
+        "price": 12.99,
+        "image": "https://img.freepik.com/premium-photo/black-cooling-pad-laptop-computer-isolated-whiteclipping-path_52253-3582.jpg?size=626&ext=jpg&ga=GA1.1.1035142150.1693736875&semt=sph"
+      },
+      {
+        "id": "18",
+        "name": "Mobile PowerBank",
+        "description": "This is the description for Product 18.",
+        "price": 26.99,
+        "image": "https://img.freepik.com/free-photo/powerbank-cellphone-wooden-table_1387-600.jpg?size=626&ext=jpg&ga=GA1.1.1035142150.1693736875&semt=sph"
+      },
+      {
+        "id": "19",
+        "name": "Head set",
+        "description": "This is the description for Product 19.",
+        "price": 21.99,
+        "image": "https://img.freepik.com/free-photo/pink-headphones-wireless-digital-device_53876-96804.jpg?size=626&ext=jpg&ga=GA1.1.1035142150.1693736875&semt=sph"
+      },
+      {
+        "id": "20",
+        "name": "eyer pods",
+        "description": "This is the description for Product 20.",
+        "price": 14.99,
+        "image": "https://img.freepik.com/free-photo/black-wireless-earbud-with-charging-case_1268-14371.jpg?size=626&ext=jpg&ga=GA1.1.1035142150.1693736875&semt=sph"
+      },
+      {
+        "id": "21",
+        "name": "Branded Eyerpods",
+        "description": "This is the description for Product 21.",
+        "price": 18.99,
+        "image": "https://img.freepik.com/free-photo/red-gold-headphones-digital-device_53876-97303.jpg?size=626&ext=jpg&ga=GA1.1.1035142150.1693736875&semt=sph"
+      },
+      {
+        "id": "22",
+        "name": "Stethoscope",
+        "description": "This is the description for Product 22.",
+        "price": 22.99,
+        "image": "https://img.freepik.com/premium-photo/3d-render-realistic-medical-stethoscope-color-background_460848-4203.jpg?size=626&ext=jpg&ga=GA1.1.1035142150.1693736875&semt=sph"
+      },
+      {
+        "id": "23",
+        "name": "Camera",
+        "description": "This is the description for Product 23.",
+        "price": 13.99,
+        "image": "https://img.freepik.com/premium-photo/dslr-camera-white_144962-4376.jpg?size=626&ext=jpg&ga=GA1.1.1035142150.1693736875&semt=sph"
+      },
+      {
+        "id": "24",
+        "name": "Branded Camera",
+        "description": "This is the description for Product 24.",
+        "price": 29.99,
+        "image": "https://img.freepik.com/premium-photo/side-view-professional-camera-with-big-camera-glass-isolated_88135-4052.jpg?size=626&ext=jpg&ga=GA1.1.1035142150.1693736875&semt=sph"
+      },
+      {
+        "id": "25",
+        "name": "Repair Toolkit",
+        "description": "This is the description for Product 25.",
+        "price": 17.99,
+        "image": "https://img.freepik.com/free-photo/set-tools-tool-kit-isolated_1303-20319.jpg?size=626&ext=jpg&ga=GA1.1.1035142150.1693736875&semt=ais"
+      },
+      {
+        "id": "26",
+        "name": "$ different size Spanners",
+        "description": "This is the description for Product 26.",
+        "price": 24.99,
+        "image": "https://img.freepik.com/free-photo/close-up-tools-mechanic_23-2148557975.jpg?size=338&ext=jpg&ga=GA1.1.1035142150.1693736875&semt=ais"
+      },
+      {
+        "id": "27",
+        "name": "Spray Paint Blue ",
+        "description": "This is the description for Product 27.",
+        "price": 15.99,
+        "image": "https://img.freepik.com/free-photo/close-up-spray-bottle_23-2149170371.jpg?size=626&ext=jpg&ga=GA1.1.1035142150.1693736875&semt=ais"
+      },
+      {
+        "id": "28",
+        "name": "Drones",
+        "description": "This is the description for Product 28.",
+        "price": 28.99,
+        "image": "https://img.freepik.com/free-photo/various-hi-tech-devices-table_140725-9010.jpg?size=626&ext=jpg&ga=GA1.1.1035142150.1693736875&semt=sph"
+      },
+      {
+        "id": "29",
+        "name": "Solar Panel",
+        "description": "This is the description for Product 29.",
+        "price": 19.99,
+        "image": "https://img.freepik.com/free-photo/3d-rendered-solar-panel-isolated-white-background_181624-57019.jpg?size=626&ext=jpg&ga=GA1.1.1035142150.1693736875&semt=ais"
+      },
+      {
+        "id": "30",
+        "name": "Generator",
+        "description": "This is the description for Product 30.",
+        "price": 23.99,
+        "image": "https://img.freepik.com/premium-photo/auxiliary-diesel-generator-emergency-electric-power_669030-713.jpg?size=626&ext=jpg&ga=GA1.1.1035142150.1693736875&semt=sph"
+      }
+    ]
+  }
+  
